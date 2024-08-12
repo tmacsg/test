@@ -1,1 +1,2 @@
 contents in work tree
+add contents in detached head
